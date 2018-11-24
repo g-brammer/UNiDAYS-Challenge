@@ -1,0 +1,14 @@
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.exe.config
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.exe
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.pdb
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.csprojAssemblyReference.cache
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.csproj.CoreCompileInputs.cache
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.exe
+F:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.pdb
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.exe.config
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.exe
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\bin\Debug\Unidays Challenge.pdb
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.csprojAssemblyReference.cache
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.csproj.CoreCompileInputs.cache
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.exe
+E:\Jobs etc\unidays\Unidays Challenge\Unidays Challenge\obj\Debug\Unidays Challenge.pdb
